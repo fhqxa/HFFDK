@@ -57,7 +57,7 @@ python train.py -batch 64 -dataset cifar_fs -datadir /home/data/cifar_fs -gpu 0 
 If you find our code or paper useful to your research work, please consider citing our work using the following bibtex:
 ```
 @article{WuTempHierarchical,
-    author   = {Wu, Zhiping and Zhao, Hong and Hu, Minjie},
+    author   = {Wu, Zhiping and Zhao, Hong},
     title    = {Hierarchical few-shor learning with feature fusion driven by data and knowledge},
     journal  = {},
     volume = {},
