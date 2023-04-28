@@ -59,11 +59,11 @@ If you find our code or paper useful to your research work, please consider citi
 @article{WuTempHierarchical,
     author   = {Wu, Zhiping and Zhao, Hong},
     title    = {Hierarchical few-shor learning with feature fusion driven by data and knowledge},
-    journal  = {},
+    journal  = {Information Sciences},
     volume = {},
     pages = {},
     issn = {},
     doi = {},
-    year = {},
+    year = {2023},
 }
 ```
