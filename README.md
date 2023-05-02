@@ -56,14 +56,14 @@ python train.py -batch 64 -dataset cifar_fs -datadir /home/data/cifar_fs -gpu 0 
 ## :scroll: Citing HFFDK
 If you find our code or paper useful to your research work, please consider citing our work using the following bibtex:
 ```
-@article{WuTempHierarchical,
-    author   = {Wu, Zhiping and Zhao, Hong},
-    title    = {Hierarchical few-shor learning with feature fusion driven by data and knowledge},
-    journal  = {Information Sciences},
-    volume = {},
-    pages = {},
-    issn = {},
-    doi = {},
-    year = {2023},
+@article{Wu2023Hierarchical,
+title = {Hierarchical Few-Shot Learning with Feature Fusion Driven by Data and Knowledge},
+author = {Zhiping Wu and Hong Zhao},
+journal = {Information Sciences},
+pages = {119012},
+year = {2023},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2023.119012},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025523005972}
 }
 ```
